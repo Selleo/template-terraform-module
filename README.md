@@ -2,14 +2,9 @@
 
 TODO
 
-## Development
+<!-- BEGIN_TF_DOCS -->
 
-1. Install [terraform-docs](https://terraform-docs.io/).
-2. Before releasing generate docs:
-
-```
-./generate-docs.sh
-```
+<!-- END_TF_DOCS -->
 
 ## LICENSE
 
